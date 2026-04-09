@@ -1,4 +1,5 @@
 #!/bin/bash
 
-Dateofbirth="01-01-2001"
-echo "My date of birth is $Dateofbirth"
+name="vamsi"
+read dateofbirth
+echo "My date of birth is $dateofbirth and my name is $name"
